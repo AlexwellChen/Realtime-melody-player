@@ -1,0 +1,12 @@
+-I/home/jay/TinyTimber/RTS-Lab
+-I/home/jay/TinyTimber/RTS-Lab/device/inc
+-I/home/jay/TinyTimber/RTS-Lab/driver/inc
+-I/home/jay/GCC/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1
+-I/home/jay/GCC/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi
+-I/home/jay/GCC/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/backward
+-I/home/jay/GCC/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include
+-I/home/jay/GCC/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include-fixed
+-I/home/jay/GCC/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include
+-DSTM32F40_41xxx
+-target
+arm-none-eabi
